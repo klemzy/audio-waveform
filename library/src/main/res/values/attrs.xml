@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Lolo
+  ~ attrs.xml
+  ~
+  ~ Copyright (c) 2015. FunPlus. All rights reserved.
+  -->
+
+<resources>
+	<declare-styleable name="SimpleWaveformView">
+		<attr name="waveformColor" format="color"/>
+		<attr name="indicatorColor" format="color"/>
+		<attr name="indicatorWidth" format="dimension"/>
+	</declare-styleable>
+</resources>
